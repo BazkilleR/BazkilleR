@@ -13,10 +13,10 @@ I'm Ratchaphon (Ohm), an Information Technology student at **KMITL** in Bangkok,
 
 | Repository | Link | Description | Highlights |
 | --- | --- | --- | --- |
-| [Ticget](https://github.com/BazkilleR/ticget) | [Repo](https://github.com/BazkilleR/ticget) | High-concurrency zone reservation system on AWS | 1,000 users, 100 seats → exactly 100 sold · 98 tests in CI |
-| [StudentSys](https://github.com/BazkilleR/studentsys) | [Repo](https://github.com/BazkilleR/studentsys) | Role-based student management frontend (Next.js 16, React 19) | 3 roles · 7 modules · 29 pages |
+| [Ticget](https://github.com/BazkilleR/ticget) | [Repo](https://github.com/BazkilleR/ticget) | High-concurrency zone reservation system on AWS |
+| [StudentSys](https://github.com/BazkilleR/studentsys) | [Repo](https://github.com/BazkilleR/studentsys) | Role-based student management frontend (Next.js 16, React 19) |
 | [Muscal](https://github.com/BazkilleR/muscal) | [Repo](https://github.com/BazkilleR/muscal) | Calorie tracking web app, Flask REST API + MySQL | Deployed on Heroku |
-| [TUP News](https://github.com/BazkilleR/tup-news) | [Repo](https://github.com/BazkilleR/tup-news) | School news platform with admin panel (PHP, MySQL) | Deployed on Hostinger |
+| [TUP News](https://github.com/BazkilleR/tup-news) | [Repo](https://github.com/BazkilleR/tup-news) | School news platform with admin panel (PHP, MySQL) |
 
 ## 👔 Experience
 
