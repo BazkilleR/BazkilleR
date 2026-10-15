@@ -5,9 +5,9 @@
 
 I'm Ratchaphon (Ohm), an Information Technology student at **KMITL** in Bangkok, Thailand.
 
-- Currently working as a **Frontend Developer** at Rabbit Start (Next.js, TypeScript, TanStack Query)
-- Enjoy building full-stack systems that stay correct under load, from the UI down to the queue and the database
-- President of the KMITL Judo Club 🥋
+- 🌱 Currently focusing on **system design and backend engineering**
+- 💼 Previously a **Frontend Developer** at Rabbit Start (Next.js, TypeScript, TanStack Query)
+- 🛠 Enjoy study about programming
 
 ## 📚 Projects
 
