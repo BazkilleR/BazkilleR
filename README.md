@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Ratchaphon Khawkhiew
 
-<!--
-**BazkilleR/BazkilleR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT student at KMITL
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+![skills](https://skillicons.dev/icons?i=ts,js,nextjs,react,tailwind,nodejs,express,postgres,mysql,redis,python,flask,aws,docker,git,linux)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+- **[Ticget](ลิงก์ repo)** – High-concurrency ticket booking on AWS (SQS FIFO, PostgreSQL, Redis). 1,000 users, 100 seats, exactly 100 sold.
+- **[StudentSys](ลิงก์ repo)** – Role-based student management frontend, Next.js 16 + React 19
+- **[Muscal](ลิงก์ repo)** – Calorie tracking app, Flask + MySQL
+
+### 📫 Contact
+Email: ohm.ratchaphon@gmail.com
+Tel: +66 98-953-9377
