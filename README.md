@@ -14,6 +14,7 @@ I'm Ratchaphon (Ohm), an Information Technology student at **KMITL** in Bangkok,
 | Repository | Link | Description |
 | --- | --- | --- |
 | [Ticget](https://github.com/BazkilleR/ticget) | [Repo](https://github.com/BazkilleR/ticget) | High-concurrency zone reservation system on AWS |
+| [Newtytion](https://github.com/BazkilleR/newtytion) | [Repo](https://github.com/BazkilleR/newtytion) | Meal and workout tracker, pnpm monorepo (React, Express 5, PostgreSQL, Drizzle, Better Auth) |
 | [StudentSys](https://github.com/BazkilleR/studentsys) | [Repo](https://github.com/BazkilleR/studentsys) | Role-based student management frontend (Next.js 16, React 19) |
 | [Muscal](https://github.com/BazkilleR/muscal) | [Repo](https://github.com/BazkilleR/muscal) | Calorie tracking web app, Flask REST API + MySQL |
 | [TUP News](https://github.com/BazkilleR/tup-news) | [Repo](https://github.com/BazkilleR/tup-news) | School news platform with admin panel (PHP, MySQL) |
