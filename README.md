@@ -11,7 +11,7 @@ I'm Ratchaphon (Ohm), an Information Technology student at **KMITL** in Bangkok,
 
 ## 📚 Projects
 
-| Repository | Link | Description | Highlights |
+| Repository | Link | Description |
 | --- | --- | --- | --- |
 | [Ticget](https://github.com/BazkilleR/ticget) | [Repo](https://github.com/BazkilleR/ticget) | High-concurrency zone reservation system on AWS |
 | [StudentSys](https://github.com/BazkilleR/studentsys) | [Repo](https://github.com/BazkilleR/studentsys) | Role-based student management frontend (Next.js 16, React 19) |
