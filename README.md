@@ -23,7 +23,7 @@ I'm Ratchaphon (Ohm), an Information Technology student at **KMITL** in Bangkok,
 
 | Position | Company | Field | Work Period |
 | --- | --- | --- | --- |
-| **Frontend Developer** | **Rabbit Start** | **Core team · Next.js, TypeScript, TanStack Query** | **Oct 2023 — Dec 2023** |
+| **Frontend Developer Intern** | **Rabbit Start** | **Core team · Next.js, TypeScript, TanStack Query** | **Oct 2023 — Dec 2023** |
 
 ## 🎓 Education
 
